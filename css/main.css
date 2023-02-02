@@ -1,10 +1,20 @@
-body {
-  color: black;
-}
-
-.button-1 {
+.normal-button {
+  align-items: center;
   border-radius: 4px;
   background: #fff;
   font-weight: 400;
   font-size: 20px;
+  color: #fff;
+  border: solid #fff;
+  cursor: pointer;
+}
+
+.normal-button:hover {
+  border-radius: 4px;
+  background: #fff;
+  font-weight: 400;
+  font-size: 20px;
+  color: black;
+  border: solid #fff;
+  cursor: pointer;
 }
