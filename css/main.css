@@ -1,0 +1,10 @@
+body {
+  color: black;
+}
+
+.button-1 {
+  border-radius: 4px;
+  background: #fff;
+  font-weight: 400;
+  font-size: 20px;
+}
